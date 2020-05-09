@@ -13,6 +13,402 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-05-09T15:14:35.701+09:00
-  initializedAtString: 2020-05-09T14:27:51.443+09:00
-  entries: []
+  lastUpdatedAtString: 2020-05-09T16:25:37.291+09:00
+  initializedAtString: 2020-05-09T16:22:54.460+09:00
+  entries:
+  - path: Assets/emoji.jpg
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/emoji.jpg
+    projectPath: Assets/emoji.jpg
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/emoji.jpg.meta
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/emoji.jpg.meta
+    projectPath: Assets/emoji.jpg.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/graffiti.jpg
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/graffiti.jpg
+    projectPath: Assets/graffiti.jpg
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/graffiti.jpg.meta
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/graffiti.jpg.meta
+    projectPath: Assets/graffiti.jpg.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Prefabs/AR Default Face Animated 0.prefab
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Prefabs/AR
+      Default Face Animated 0.prefab
+    projectPath: Assets/Prefabs/AR Default Face Animated 0.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Prefabs/AR Default Face Animated 0.prefab.meta
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Prefabs/AR
+      Default Face Animated 0.prefab.meta
+    projectPath: Assets/Prefabs/AR Default Face Animated 0.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Prefabs/AR Default Face Animated 1.prefab
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Prefabs/AR
+      Default Face Animated 1.prefab
+    projectPath: Assets/Prefabs/AR Default Face Animated 1.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Prefabs/AR Default Face Animated 1.prefab.meta
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Prefabs/AR
+      Default Face Animated 1.prefab.meta
+    projectPath: Assets/Prefabs/AR Default Face Animated 1.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Prefabs/AR Default Face Animated 2.prefab
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Prefabs/AR
+      Default Face Animated 2.prefab
+    projectPath: Assets/Prefabs/AR Default Face Animated 2.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Prefabs/AR Default Face Animated 2.prefab.meta
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Prefabs/AR
+      Default Face Animated 2.prefab.meta
+    projectPath: Assets/Prefabs/AR Default Face Animated 2.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Prefabs/AR Default Face Animated 3.prefab
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Prefabs/AR
+      Default Face Animated 3.prefab
+    projectPath: Assets/Prefabs/AR Default Face Animated 3.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Prefabs/AR Default Face Animated 3.prefab.meta
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Prefabs/AR
+      Default Face Animated 3.prefab.meta
+    projectPath: Assets/Prefabs/AR Default Face Animated 3.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Prefabs/AR Default Face Animated 4.prefab
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Prefabs/AR
+      Default Face Animated 4.prefab
+    projectPath: Assets/Prefabs/AR Default Face Animated 4.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Prefabs/AR Default Face Animated 4.prefab.meta
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Prefabs/AR
+      Default Face Animated 4.prefab.meta
+    projectPath: Assets/Prefabs/AR Default Face Animated 4.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Prefabs/AR Default Face.prefab
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Prefabs/AR
+      Default Face.prefab
+    projectPath: Assets/Prefabs/AR Default Face.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Prefabs/AR Default Face.prefab.meta
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Prefabs/AR
+      Default Face.prefab.meta
+    projectPath: Assets/Prefabs/AR Default Face.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Prefabs/audioreactivefacemeshobj.prefab
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Prefabs/audioreactivefacemeshobj.prefab
+    projectPath: Assets/Prefabs/audioreactivefacemeshobj.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Prefabs/audioreactivefacemeshobj.prefab.meta
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Prefabs/audioreactivefacemeshobj.prefab.meta
+    projectPath: Assets/Prefabs/audioreactivefacemeshobj.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/audioreactivefacemesh.unity
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Scenes/audioreactivefacemesh.unity
+    projectPath: Assets/Scenes/audioreactivefacemesh.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/audioreactivefacemesh.unity.meta
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Scenes/audioreactivefacemesh.unity.meta
+    projectPath: Assets/Scenes/audioreactivefacemesh.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/AutoToggleFaces.unity
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Scenes/AutoToggleFaces.unity
+    projectPath: Assets/Scenes/AutoToggleFaces.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Scenes/AutoToggleFaces.unity.meta
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Scenes/AutoToggleFaces.unity.meta
+    projectPath: Assets/Scenes/AutoToggleFaces.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Scenes/FaceTrackingAnimated_1.unity
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Scenes/FaceTrackingAnimated_1.unity
+    projectPath: Assets/Scenes/FaceTrackingAnimated_1.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Scenes/FaceTrackingAnimated_1.unity.meta
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Scenes/FaceTrackingAnimated_1.unity.meta
+    projectPath: Assets/Scenes/FaceTrackingAnimated_1.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Scenes/FaceTrackingAnimated_2.unity
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Scenes/FaceTrackingAnimated_2.unity
+    projectPath: Assets/Scenes/FaceTrackingAnimated_2.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Scenes/FaceTrackingAnimated_2.unity.meta
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Scenes/FaceTrackingAnimated_2.unity.meta
+    projectPath: Assets/Scenes/FaceTrackingAnimated_2.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Scenes/FaceTrackingCartoonDemo.unity
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Scenes/FaceTrackingCartoonDemo.unity
+    projectPath: Assets/Scenes/FaceTrackingCartoonDemo.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Scenes/FaceTrackingCartoonDemo.unity.meta
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Scenes/FaceTrackingCartoonDemo.unity.meta
+    projectPath: Assets/Scenes/FaceTrackingCartoonDemo.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Scenes/FaceTrackingPipeline.unity
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Scenes/FaceTrackingPipeline.unity
+    projectPath: Assets/Scenes/FaceTrackingPipeline.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Scenes/FaceTrackingPipeline.unity.meta
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Scenes/FaceTrackingPipeline.unity.meta
+    projectPath: Assets/Scenes/FaceTrackingPipeline.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Scenes/FaceTrackingUVDemo.unity
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Scenes/FaceTrackingUVDemo.unity
+    projectPath: Assets/Scenes/FaceTrackingUVDemo.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Scenes/FaceTrackingUVDemo.unity.meta
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Scenes/FaceTrackingUVDemo.unity.meta
+    projectPath: Assets/Scenes/FaceTrackingUVDemo.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Textures/emoji.jpg
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Textures/emoji.jpg
+    projectPath: Assets/Textures/emoji.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Textures/emoji.jpg.meta
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Textures/emoji.jpg.meta
+    projectPath: Assets/Textures/emoji.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Textures/graffiti.jpg
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Textures/graffiti.jpg
+    projectPath: Assets/Textures/graffiti.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Textures/graffiti.jpg.meta
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Textures/graffiti.jpg.meta
+    projectPath: Assets/Textures/graffiti.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets/Textures/\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8
+      2020-05-04 16.19.48.png"
+    fullPath: "/Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Textures/\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8
+      2020-05-04 16.19.48.png"
+    projectPath: "Assets/Textures/\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8
+      2020-05-04 16.19.48.png"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets/Textures/\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8
+      2020-05-04 16.19.48.png.meta"
+    fullPath: "/Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/Textures/\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8
+      2020-05-04 16.19.48.png.meta"
+    projectPath: "Assets/Textures/\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8
+      2020-05-04 16.19.48.png.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets/\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 2020-05-04
+      16.19.48.png"
+    fullPath: "/Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8
+      2020-05-04 16.19.48.png"
+    projectPath: "Assets/\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 2020-05-04
+      16.19.48.png"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "Assets/\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 2020-05-04
+      16.19.48.png.meta"
+    fullPath: "/Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Assets/\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8
+      2020-05-04 16.19.48.png.meta"
+    projectPath: "Assets/\u30B9\u30AF\u30EA\u30FC\u30F3\u30B7\u30E7\u30C3\u30C8 2020-05-04
+      16.19.48.png.meta"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/ArtifactDB
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Library/ArtifactDB
+    projectPath: Library/ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Artifacts/41/41a7c1e435e27e820b7758564f165019
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Library/Artifacts/41/41a7c1e435e27e820b7758564f165019
+    projectPath: Library/Artifacts/41/41a7c1e435e27e820b7758564f165019
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ec/ecabc5254734d48dfdec72fea43885bb
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Library/Artifacts/ec/ecabc5254734d48dfdec72fea43885bb
+    projectPath: Library/Artifacts/ec/ecabc5254734d48dfdec72fea43885bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/EditorInstance.json
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SceneVisibilityState.asset
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Library/SceneVisibilityState.asset
+    projectPath: Library/SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/shadercompiler-UnityShaderCompiler1.log
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Library/shadercompiler-UnityShaderCompiler1.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/shadercompiler-UnityShaderCompiler2.log
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Library/shadercompiler-UnityShaderCompiler2.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/shadercompiler-UnityShaderCompiler3.log
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Library/shadercompiler-UnityShaderCompiler3.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/shadercompiler-UnityShaderCompiler4.log
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Library/shadercompiler-UnityShaderCompiler4.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/shadercompiler-UnityShaderCompiler5.log
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Library/shadercompiler-UnityShaderCompiler5.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler5.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/shadercompiler-UnityShaderCompiler6.log
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Library/shadercompiler-UnityShaderCompiler6.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler6.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/shadercompiler-UnityShaderCompiler7.log
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Library/shadercompiler-UnityShaderCompiler7.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler7.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SourceAssetDB
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Library/SourceAssetDB
+    projectPath: Library/SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/Hierarchy/74976b-05c7a6af1054243cfa.json
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Library/StateCache/Hierarchy/74976b-05c7a6af1054243cfa.json
+    projectPath: Library/StateCache/Hierarchy/74976b-05c7a6af1054243cfa.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/Hierarchy/74976b-mainStage.json
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Library/StateCache/Hierarchy/74976b-mainStage.json
+    projectPath: Library/StateCache/Hierarchy/74976b-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings/EditorBuildSettings.asset
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/ProjectSettings/EditorBuildSettings.asset
+    projectPath: ProjectSettings/EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/ProcessJobs/370bfaca8ad1a2aacec2c51adf89b086.bakert
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Temp/ProcessJobs/370bfaca8ad1a2aacec2c51adf89b086.bakert
+    projectPath: Temp/ProcessJobs/370bfaca8ad1a2aacec2c51adf89b086.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityLockfile
+    fullPath: /Users/shimpeimiura/Unity/ar_foundation_audioreactivefacemesh/Temp/UnityLockfile
+    projectPath: Temp/UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1

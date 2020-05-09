@@ -18,7 +18,7 @@ EditorBuildSettings:
     path: Assets/Scenes/FaceTrackingAnimated_1.unity
     guid: afb0fc20759ac4f4b83657ae15b12038
   - enabled: 1
-    path: Assets/Scenes/FaceTrackingAnimated_2.unity
+    path: Assets/Scenes/audioreactivefacemesh.unity
     guid: 2f60700ffb114419dabe815ff1847198
   m_configObjects:
     com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 3a1a04454d44f473ba01bae96c1b8855,
